@@ -8,6 +8,9 @@ The final model, leveraging a Random Forest classifier with PCA-transformed feat
 
 The dataset and inspiration for this project came from the **Kaggle competition**: [Detect AI-Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text).
 
+Dataset Link: (https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset)
+
+
 ---
 
 ## **Features**
