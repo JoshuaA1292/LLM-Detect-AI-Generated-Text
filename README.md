@@ -59,6 +59,6 @@ The dataset and inspiration for this project came from the **Kaggle competition*
 
 ---
 
-## Acknowledgements**
+## Acknowledgements
 - The dataset and inspiration for this project came from the Kaggle competition.
 - Special thanks to O’Donnell Data Science and Research Computing Institute for their support and guidance throughout this project.
